@@ -1,20 +1,15 @@
 class Solution:
     def shiftingLetters(self, s: str, shifts: List[List[int]]) -> str:
-        n = len(s)
-        diff = [0] * (n + 1)   
-        for start, end, direction in shifts:
-            if direction == 1:   
-                diff[start] += 1
-                diff[end + 1] -= 1
-            else:  
-                diff[start] -= 1
-                diff[end + 1] += 1
- 
-        shift = 0
-        result = []
-        for i, char in enumerate(s):
-            shift += diff[i]   
-            new_char = chr(((ord(char) - ord('a') + shift) % 26) + ord('a'))   
-            result.append(new_char)
+        nums = [ord(char) - ord('a') for char in s]
 
-        return "".join(result)
+        prefix = [0]*(len(s)+1)
+        for left, right, d in shifts:
+            prefix[right+1] += 1 if d else -1
+            prefix[left] += -1 if d else 1
+        move = 0 
+        for i in reversed(range(1, len(prefix))):
+            move += prefix[i]
+            nums[i-1] = (nums[i-1] + move)%26
+        
+        return "".join(chr(num + ord('a')) for num in nums)
+        
