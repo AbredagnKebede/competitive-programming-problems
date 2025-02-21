@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0053-maximum-subarray) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 ## Greedy
 |  |
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0146-lru-cache) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
