@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0012-integer-to-roman) |
 | [0146-lru-cache](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0146-lru-cache) |
 ## Linked List
 |  |
@@ -56,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1184-car-pooling](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1184-car-pooling) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0012-integer-to-roman) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
