@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0053-maximum-subarray) |
 | [0238-product-of-array-except-self](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0238-product-of-array-except-self) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1027-sum-of-even-numbers-after-queries) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0011-container-with-most-water) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 ## Sorting
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0011-container-with-most-water) |
 | [1028-interval-list-intersections](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1028-interval-list-intersections) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2551-apply-operations-to-an-array](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2551-apply-operations-to-an-array) |
