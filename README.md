@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1184-car-pooling) |
 | [1582-design-browser-history](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1582-design-browser-history) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2551-apply-operations-to-an-array](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2551-apply-operations-to-an-array) |
 | [2574-count-subarrays-with-median-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2574-count-subarrays-with-median-k) |
 ## Greedy
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0053-maximum-subarray) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
