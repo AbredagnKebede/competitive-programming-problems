@@ -4,14 +4,12 @@ class Solution:
         while target > 1:
             if maxDoubles:
                 if target%2 != 0:
-                    cnt += 2
-                    target -= 1
-                    target //= 2
-                    maxDoubles -= 1
-                elif target%2 == 0:
                     cnt += 1
-                    target //= 2
-                    maxDoubles -= 1
+                    target -= 1
+                    
+                cnt += 1
+                target //= 2
+                maxDoubles -= 1
             else:
                 cnt += (target-1)
                 break
