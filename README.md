@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0146-lru-cache](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0146-lru-cache) |
 | [0328-odd-even-linked-list](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0328-odd-even-linked-list) |
 | [1582-design-browser-history](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1582-design-browser-history) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0025-reverse-nodes-in-k-group) |
 ## Stack
 |  |
 | ------- |
