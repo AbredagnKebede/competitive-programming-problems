@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0040-combination-sum-ii) |
+| [0077-combinations](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0077-combinations) |
 ## Matrix
 |  |
 | ------- |
