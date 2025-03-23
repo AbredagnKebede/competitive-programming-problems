@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0120-triangle](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0238-product-of-array-except-self](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0238-product-of-array-except-self) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0055-jump-game) |
+| [0120-triangle](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0486-predict-the-winner](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0486-predict-the-winner) |
 | [0943-sum-of-subarray-minimums](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0943-sum-of-subarray-minimums) |
