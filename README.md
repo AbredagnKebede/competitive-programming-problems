@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0238-product-of-array-except-self) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0456-132-pattern](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0456-132-pattern) |
 ## Ordered Set
 |  |
