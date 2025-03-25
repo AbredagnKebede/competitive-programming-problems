@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0179-largest-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0189-rotate-array) |
 | [1028-interval-list-intersections](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1028-interval-list-intersections) |
