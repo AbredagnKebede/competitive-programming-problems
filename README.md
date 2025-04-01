@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0238-product-of-array-except-self) |
 | [0275-h-index-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0275-h-index-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0238-product-of-array-except-self) |
 | [1184-car-pooling](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1184-car-pooling) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Data Stream
 |  |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0275-h-index-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0275-h-index-ii) |
 | [0456-132-pattern](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0475-heaters) |
