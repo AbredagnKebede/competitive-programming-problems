@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1582-design-browser-history) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
+| [1772-create-sorted-array-through-instructions](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1772-create-sorted-array-through-instructions) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0948-sort-an-array](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0948-sort-an-array) |
 | [1285-balance-a-binary-search-tree](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1285-balance-a-binary-search-tree) |
+| [1772-create-sorted-array-through-instructions](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1772-create-sorted-array-through-instructions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -263,12 +265,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1675-magnetic-force-between-two-balls) |
+| [1772-create-sorted-array-through-instructions](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1772-create-sorted-array-through-instructions) |
 | [2665-minimum-time-to-repair-cars](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [3643-zero-array-transformation-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3643-zero-array-transformation-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0456-132-pattern) |
+| [1772-create-sorted-array-through-instructions](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1772-create-sorted-array-through-instructions) |
 ## Game Theory
 |  |
 | ------- |
@@ -349,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0948-sort-an-array) |
+| [1772-create-sorted-array-through-instructions](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1772-create-sorted-array-through-instructions) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -361,4 +366,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0948-sort-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1772-create-sorted-array-through-instructions](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1772-create-sorted-array-through-instructions) |
+## Segment Tree
+|  |
+| ------- |
+| [1772-create-sorted-array-through-instructions](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1772-create-sorted-array-through-instructions) |
 <!---LeetCode Topics End-->
