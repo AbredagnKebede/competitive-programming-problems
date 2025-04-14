@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0012-integer-to-roman) |
 | [0076-minimum-window-substring](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0076-minimum-window-substring) |
+| [0093-restore-ip-addresses](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0093-restore-ip-addresses) |
 | [0139-word-break](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0179-largest-number) |
 | [0394-decode-string](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0394-decode-string) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0078-subsets) |
+| [0093-restore-ip-addresses](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0093-restore-ip-addresses) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Matrix
 |  |
