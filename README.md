@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0238-product-of-array-except-self) |
 | [0275-h-index-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0275-h-index-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0456-132-pattern](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0456-132-pattern) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0238-product-of-array-except-self) |
+| [0304-range-sum-query-2d-immutable](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [1184-car-pooling](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1184-car-pooling) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [2574-count-subarrays-with-median-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2574-count-subarrays-with-median-k) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0146-lru-cache) |
+| [0304-range-sum-query-2d-immutable](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0859-design-circular-deque](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0859-design-circular-deque) |
 | [1582-design-browser-history](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1582-design-browser-history) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0074-search-a-2d-matrix) |
+| [0304-range-sum-query-2d-immutable](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Binary Search
 |  |
