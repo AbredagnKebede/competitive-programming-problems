@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0146-lru-cache) |
 | [0229-majority-element-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0229-majority-element-ii) |
+| [0264-ugly-number-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0797-rabbits-in-forest](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0797-rabbits-in-forest) |
@@ -155,12 +156,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0139-word-break) |
+| [0264-ugly-number-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0264-ugly-number-ii) |
 | [0486-predict-the-winner](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0486-predict-the-winner) |
 | [0943-sum-of-subarray-minimums](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0943-sum-of-subarray-minimums) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0948-sort-an-array) |
 | [1184-car-pooling](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1184-car-pooling) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0189-rotate-array) |
+| [0264-ugly-number-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0264-ugly-number-ii) |
 | [0486-predict-the-winner](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0486-predict-the-winner) |
 | [0797-rabbits-in-forest](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0797-rabbits-in-forest) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1303-minimum-moves-to-reach-target-score) |
