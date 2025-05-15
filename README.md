@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0609-find-duplicate-file-in-system](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0609-find-duplicate-file-in-system) |
 | [0624-maximum-distance-in-arrays](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0624-maximum-distance-in-arrays) |
+| [0695-max-area-of-island](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0739-daily-temperatures) |
 | [0797-rabbits-in-forest](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0797-rabbits-in-forest) |
 | [0859-design-circular-deque](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0859-design-circular-deque) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0498-diagonal-traverse](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0498-diagonal-traverse) |
+| [0695-max-area-of-island](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0695-max-area-of-island) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Binary Search
 |  |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0695-max-area-of-island](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0695-max-area-of-island) |
 | [0922-possible-bipartition](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0922-possible-bipartition) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1285-balance-a-binary-search-tree](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1285-balance-a-binary-search-tree) |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0695-max-area-of-island](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0695-max-area-of-island) |
 | [0922-possible-bipartition](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0922-possible-bipartition) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Queue
@@ -464,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0695-max-area-of-island) |
 | [0922-possible-bipartition](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0922-possible-bipartition) |
 ## Graph
 |  |
