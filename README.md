@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0486-predict-the-winner) |
 | [0564-find-the-closest-palindrome](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0592-fraction-addition-and-subtraction) |
+| [0633-sum-of-square-numbers](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0633-sum-of-square-numbers) |
 | [0797-rabbits-in-forest](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0797-rabbits-in-forest) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0443-string-compression) |
 | [0475-heaters](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0475-heaters) |
 | [0567-permutation-in-string](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0567-permutation-in-string) |
+| [0633-sum-of-square-numbers](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0633-sum-of-square-numbers) |
 | [1028-interval-list-intersections](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1028-interval-list-intersections) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2551-apply-operations-to-an-array](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2551-apply-operations-to-an-array) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0275-h-index-ii) |
 | [0456-132-pattern](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0475-heaters) |
+| [0633-sum-of-square-numbers](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0633-sum-of-square-numbers) |
 | [0907-koko-eating-bananas](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1675-magnetic-force-between-two-balls) |
