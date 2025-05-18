@@ -1,4 +1,3 @@
-import re
 class Solution:
     def maskPII(self, s: str) -> str:
         def maskmail(email):
@@ -8,7 +7,8 @@ class Solution:
             return local[0] + '*****' + local[-1] + '@' + domain
 
         def maskphone(phone):
-            num = re.sub(r"\D", "", phone)  # Remove all non-numeric characters
+            #num = re.sub(r"\D", "", phone) optional Remove all non-numeric characters
+            num = "".join(i for i in phone if i not in {'+', '-', '(', ')', ' '} )
             if len(num) == 10:
                 return "***-***-" + num[-4:]
             elif len(num) == 11:
