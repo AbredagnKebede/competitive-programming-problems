@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-max-increase-to-keep-city-skyline](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0829-subdomain-visit-count](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0829-subdomain-visit-count) |
 | [0859-design-circular-deque](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0859-design-circular-deque) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0948-sort-an-array) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0560-subarray-sum-equals-k) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1184-car-pooling](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1184-car-pooling) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [2574-count-subarrays-with-median-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2574-count-subarrays-with-median-k) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0451-sort-characters-by-frequency) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0948-sort-an-array) |
 | [1184-car-pooling](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1184-car-pooling) |
 ## Simulation
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0567-permutation-in-string) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Data Stream
 |  |
@@ -345,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0633-sum-of-square-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1675-magnetic-force-between-two-balls) |
@@ -419,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0859-design-circular-deque) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
@@ -429,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Trie
 |  |
