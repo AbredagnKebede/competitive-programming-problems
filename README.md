@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0909-stone-game) |
 | [0917-boats-to-save-people](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0917-boats-to-save-people) |
 | [0921-spiral-matrix-iii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0921-spiral-matrix-iii) |
+| [0940-fruit-into-baskets](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0948-sort-an-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0609-find-duplicate-file-in-system](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0609-find-duplicate-file-in-system) |
 | [0797-rabbits-in-forest](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0797-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0829-subdomain-visit-count) |
+| [0940-fruit-into-baskets](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0940-fruit-into-baskets) |
 | [2574-count-subarrays-with-median-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2574-count-subarrays-with-median-k) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Linked List
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0567-permutation-in-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0940-fruit-into-baskets](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0940-fruit-into-baskets) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Data Stream
 |  |
