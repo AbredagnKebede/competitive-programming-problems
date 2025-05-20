@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0948-sort-an-array) |
+| [0952-word-subsets](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0952-word-subsets) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1028-interval-list-intersections](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1028-interval-list-intersections) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0797-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0829-subdomain-visit-count) |
 | [0940-fruit-into-baskets](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0940-fruit-into-baskets) |
+| [0952-word-subsets](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0952-word-subsets) |
 | [2574-count-subarrays-with-median-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2574-count-subarrays-with-median-k) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Linked List
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-subdomain-visit-count](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0829-subdomain-visit-count) |
 | [0858-masking-personal-information](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0858-masking-personal-information) |
 | [0886-score-of-parentheses](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0886-score-of-parentheses) |
+| [0952-word-subsets](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0952-word-subsets) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Two Pointers
