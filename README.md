@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0952-word-subsets) |
+| [0966-binary-subarrays-with-sum](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1028-interval-list-intersections](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1028-interval-list-intersections) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1184-car-pooling](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1184-car-pooling) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [2574-count-subarrays-with-median-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2574-count-subarrays-with-median-k) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-subdomain-visit-count](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0829-subdomain-visit-count) |
 | [0940-fruit-into-baskets](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0952-word-subsets) |
+| [0966-binary-subarrays-with-sum](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [2574-count-subarrays-with-median-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2574-count-subarrays-with-median-k) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Linked List
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0567-permutation-in-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Data Stream
 |  |
