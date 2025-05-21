@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [0999-regions-cut-by-slashes](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0999-regions-cut-by-slashes) |
+| [1009-pancake-sorting](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1009-pancake-sorting) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1028-interval-list-intersections](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1028-interval-list-intersections) |
 | [1095-two-city-scheduling](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1095-two-city-scheduling) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0797-rabbits-in-forest) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0917-boats-to-save-people](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0917-boats-to-save-people) |
+| [1009-pancake-sorting](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1009-pancake-sorting) |
 | [1095-two-city-scheduling](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1095-two-city-scheduling) |
 | [1285-balance-a-binary-search-tree](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1303-minimum-moves-to-reach-target-score) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0948-sort-an-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1009-pancake-sorting](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1009-pancake-sorting) |
 | [1095-two-city-scheduling](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1095-two-city-scheduling) |
 | [1184-car-pooling](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1184-car-pooling) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1675-magnetic-force-between-two-balls) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0633-sum-of-square-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0917-boats-to-save-people](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0917-boats-to-save-people) |
+| [1009-pancake-sorting](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1009-pancake-sorting) |
 | [1028-interval-list-intersections](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1028-interval-list-intersections) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2551-apply-operations-to-an-array](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2551-apply-operations-to-an-array) |
