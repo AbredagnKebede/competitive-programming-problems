@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-reveal-cards-in-increasing-order](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [0999-regions-cut-by-slashes](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0999-regions-cut-by-slashes) |
 | [1009-pancake-sorting](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1009-pancake-sorting) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1028-interval-list-intersections](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1028-interval-list-intersections) |
 | [1095-two-city-scheduling](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1095-two-city-scheduling) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0966-binary-subarrays-with-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1184-car-pooling](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1184-car-pooling) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [2574-count-subarrays-with-median-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2574-count-subarrays-with-median-k) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0999-regions-cut-by-slashes) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2574-count-subarrays-with-median-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2574-count-subarrays-with-median-k) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Linked List
