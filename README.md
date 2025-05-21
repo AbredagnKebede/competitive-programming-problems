@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1064-smallest-integer-divisible-by-k) |
 | [2574-count-subarrays-with-median-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2574-count-subarrays-with-median-k) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Linked List
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0650-2-keys-keyboard) |
 | [0797-rabbits-in-forest](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0797-rabbits-in-forest) |
 | [0909-stone-game](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0909-stone-game) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## String
