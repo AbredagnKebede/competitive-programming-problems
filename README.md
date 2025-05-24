@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1095-two-city-scheduling](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1095-two-city-scheduling) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1184-car-pooling](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1184-car-pooling) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1582-design-browser-history](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1582-design-browser-history) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1064-smallest-integer-divisible-by-k) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2574-count-subarrays-with-median-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2574-count-subarrays-with-median-k) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Linked List
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-max-increase-to-keep-city-skyline](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0921-spiral-matrix-iii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0999-regions-cut-by-slashes) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Binary Search
 |  |
