@@ -1,12 +1,14 @@
 class Solution:
     def findKthBit(self, n: int, k: int) -> str:
-        def helper(binary):
-            res = "".join('0' if i == '1' else '1' for i in binary)
-            return res[::-1]
-        
-        stack = ['0']
-        for i in range(2, n + 1):
-            cur = stack[-1] + '1' + helper(stack[-1])
-            stack.append(cur)
-        
-        return stack[-1][k-1]
+        if n == 1:   
+            return "0"
+
+        length = 2**n - 1   
+        mid = length // 2 + 1   
+
+        if k == mid:
+            return "1"
+        elif k < mid:
+            return self.findKthBit(n - 1, k) 
+        else:
+            return "1" if self.findKthBit(n - 1, length - k + 1) == "0" else "0"  
