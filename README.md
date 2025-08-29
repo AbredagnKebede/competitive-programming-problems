@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0055-jump-game) |
 | [0120-triangle](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0120-triangle) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0012-integer-to-roman) |
+| [0022-generate-parentheses](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0093-restore-ip-addresses) |
 | [0139-word-break](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0139-word-break) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0077-combinations) |
