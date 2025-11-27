@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2551-apply-operations-to-an-array) |
 | [2574-count-subarrays-with-median-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2574-count-subarrays-with-median-k) |
 | [2665-minimum-time-to-repair-cars](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2665-minimum-time-to-repair-cars) |
+| [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3643-zero-array-transformation-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3643-zero-array-transformation-ii) |
 ## Greedy
 |  |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2364-count-number-of-bad-pairs](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2364-count-number-of-bad-pairs) |
 | [2574-count-subarrays-with-median-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2574-count-subarrays-with-median-k) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
+| [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 ## Linked List
 |  |
 | ------- |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1184-car-pooling) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2551-apply-operations-to-an-array](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2551-apply-operations-to-an-array) |
+| [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 ## Math
 |  |
 | ------- |
