@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1064-smallest-integer-divisible-by-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1160-letter-tile-possibilities) |
+| [2349-design-a-number-container-system](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2349-design-a-number-container-system) |
 | [2364-count-number-of-bad-pairs](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2364-count-number-of-bad-pairs) |
 | [2574-count-subarrays-with-median-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2574-count-subarrays-with-median-k) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0969-number-of-recent-calls) |
 | [1582-design-browser-history](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1582-design-browser-history) |
+| [2349-design-a-number-container-system](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2349-design-a-number-container-system) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Doubly-Linked List
 |  |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0948-sort-an-array) |
 | [1184-car-pooling](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1184-car-pooling) |
 | [1325-path-with-maximum-probability](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1325-path-with-maximum-probability) |
+| [2349-design-a-number-container-system](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2349-design-a-number-container-system) |
 ## Simulation
 |  |
 | ------- |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0456-132-pattern](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0456-132-pattern) |
 | [1772-create-sorted-array-through-instructions](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1772-create-sorted-array-through-instructions) |
+| [2349-design-a-number-container-system](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2349-design-a-number-container-system) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Game Theory
 |  |
