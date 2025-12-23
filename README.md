@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0722-remove-comments](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0722-remove-comments) |
 | [0739-daily-temperatures](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0739-daily-temperatures) |
 | [0797-rabbits-in-forest](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0797-rabbits-in-forest) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0829-subdomain-visit-count](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0829-subdomain-visit-count) |
 | [0859-design-circular-deque](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0859-design-circular-deque) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0624-maximum-distance-in-arrays](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0797-rabbits-in-forest](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0797-rabbits-in-forest) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0917-boats-to-save-people](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0917-boats-to-save-people) |
 | [1009-pancake-sorting](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1009-pancake-sorting) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0498-diagonal-traverse](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0498-diagonal-traverse) |
 | [0695-max-area-of-island](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0695-max-area-of-island) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0921-spiral-matrix-iii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0999-regions-cut-by-slashes) |
