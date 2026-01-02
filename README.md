@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0146-lru-cache](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0146-lru-cache) |
 | [0328-odd-even-linked-list](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0328-odd-even-linked-list) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0016-3sum-closest) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
