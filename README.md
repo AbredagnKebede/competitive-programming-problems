@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1028-interval-list-intersections](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1028-interval-list-intersections) |
 | [1046-max-consecutive-ones-iii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1094-car-pooling](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1094-car-pooling) |
 | [1095-two-city-scheduling](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1095-two-city-scheduling) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1184-car-pooling](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1184-car-pooling) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0948-sort-an-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1009-pancake-sorting](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1009-pancake-sorting) |
+| [1094-car-pooling](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1094-car-pooling) |
 | [1095-two-city-scheduling](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1095-two-city-scheduling) |
 | [1184-car-pooling](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1184-car-pooling) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1094-car-pooling) |
 | [1184-car-pooling](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1184-car-pooling) |
 | [1240-stone-game-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1240-stone-game-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0948-sort-an-array) |
+| [1094-car-pooling](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1094-car-pooling) |
 | [1184-car-pooling](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1184-car-pooling) |
 | [1325-path-with-maximum-probability](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1325-path-with-maximum-probability) |
 | [2349-design-a-number-container-system](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2349-design-a-number-container-system) |
@@ -282,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0921-spiral-matrix-iii) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1027-sum-of-even-numbers-after-queries) |
+| [1094-car-pooling](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1094-car-pooling) |
 | [1184-car-pooling](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1184-car-pooling) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2551-apply-operations-to-an-array](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2551-apply-operations-to-an-array) |
