@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1772-create-sorted-array-through-instructions](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1772-create-sorted-array-through-instructions) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1861-rotating-the-box](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1861-rotating-the-box) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2364-count-number-of-bad-pairs](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2364-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2465-shifting-letters-ii) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-pancake-sorting](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1009-pancake-sorting) |
 | [1028-interval-list-intersections](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1028-interval-list-intersections) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1861-rotating-the-box](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1861-rotating-the-box) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2551-apply-operations-to-an-array](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2551-apply-operations-to-an-array) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0999-regions-cut-by-slashes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1861-rotating-the-box](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1861-rotating-the-box) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Binary Search
 |  |
