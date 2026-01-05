@@ -534,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2097-valid-arrangement-of-pairs](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2097-valid-arrangement-of-pairs) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -659,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1325-path-with-maximum-probability) |
+| [2097-valid-arrangement-of-pairs](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2097-valid-arrangement-of-pairs) |
 ## Randomized
 |  |
 | ------- |
@@ -667,4 +669,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1325-path-with-maximum-probability) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2097-valid-arrangement-of-pairs](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2097-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
