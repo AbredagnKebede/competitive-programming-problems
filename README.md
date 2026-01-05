@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Sorting
 |  |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1160-letter-tile-possibilities) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2465-shifting-letters-ii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1582-design-browser-history) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Sliding Window
 |  |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0078-subsets) |
 | [0093-restore-ip-addresses](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0093-restore-ip-addresses) |
 | [1160-letter-tile-possibilities](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1160-letter-tile-possibilities) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Matrix
