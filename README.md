@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1772-create-sorted-array-through-instructions](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1772-create-sorted-array-through-instructions) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1861-rotating-the-box](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1861-rotating-the-box) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1094-car-pooling) |
 | [1184-car-pooling](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1184-car-pooling) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2551-apply-operations-to-an-array](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2551-apply-operations-to-an-array) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 ## Math
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1064-smallest-integer-divisible-by-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1240-stone-game-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1240-stone-game-ii) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1303-minimum-moves-to-reach-target-score) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2364-count-number-of-bad-pairs](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2364-count-number-of-bad-pairs) |
 ## String
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0486-predict-the-winner) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Stack
 |  |
 | ------- |
@@ -585,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0969-number-of-recent-calls](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0969-number-of-recent-calls) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Bit Manipulation
