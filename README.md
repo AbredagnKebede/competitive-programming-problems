@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2364-count-number-of-bad-pairs](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2364-count-number-of-bad-pairs) |
+| [2381-shifting-letters-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2381-shifting-letters-ii) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2465-shifting-letters-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2465-shifting-letters-ii) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2513-number-of-pairs-satisfying-inequality) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
+| [2381-shifting-letters-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2381-shifting-letters-ii) |
 | [2465-shifting-letters-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2465-shifting-letters-ii) |
 | [2574-count-subarrays-with-median-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2574-count-subarrays-with-median-k) |
 | [3643-zero-array-transformation-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3643-zero-array-transformation-ii) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1160-letter-tile-possibilities) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2381-shifting-letters-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2381-shifting-letters-ii) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2465-shifting-letters-ii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
