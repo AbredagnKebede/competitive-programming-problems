@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2551-apply-operations-to-an-array](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2551-apply-operations-to-an-array) |
 | [2574-count-subarrays-with-median-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2574-count-subarrays-with-median-k) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2665-minimum-time-to-repair-cars](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3643-zero-array-transformation-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3643-zero-array-transformation-ii) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1184-car-pooling) |
 | [1325-path-with-maximum-probability](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1325-path-with-maximum-probability) |
 | [2349-design-a-number-container-system](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2349-design-a-number-container-system) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1861-rotating-the-box) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2257-count-unguarded-cells-in-the-grid) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -608,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0999-regions-cut-by-slashes) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Queue
 |  |
 | ------- |
@@ -697,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1325-path-with-maximum-probability) |
 | [2097-valid-arrangement-of-pairs](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2097-valid-arrangement-of-pairs) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Randomized
 |  |
 | ------- |
@@ -705,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1325-path-with-maximum-probability) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Eulerian Circuit
 |  |
 | ------- |
