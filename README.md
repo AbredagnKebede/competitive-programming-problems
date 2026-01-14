@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2665-minimum-time-to-repair-cars](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
+| [3243-shortest-distance-after-road-addition-queries-i](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3643-zero-array-transformation-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3643-zero-array-transformation-ii) |
 ## Greedy
 |  |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3243-shortest-distance-after-road-addition-queries-i](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 ## Queue
 |  |
 | ------- |
@@ -707,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2097-valid-arrangement-of-pairs](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2097-valid-arrangement-of-pairs) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3243-shortest-distance-after-road-addition-queries-i](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 ## Randomized
 |  |
 | ------- |
