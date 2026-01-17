@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1861-rotating-the-box](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1861-rotating-the-box) |
+| [2070-most-beautiful-item-for-each-query](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
+| [2070-most-beautiful-item-for-each-query](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [1772-create-sorted-array-through-instructions](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1772-create-sorted-array-through-instructions) |
+| [2070-most-beautiful-item-for-each-query](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2665-minimum-time-to-repair-cars](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2665-minimum-time-to-repair-cars) |
