@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2563-count-the-number-of-fair-pairs](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2574-count-subarrays-with-median-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2574-count-subarrays-with-median-k) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2601-prime-subtraction-operation](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2601-prime-subtraction-operation) |
 | [2665-minimum-time-to-repair-cars](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-construct-smallest-number-from-di-string](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2601-prime-subtraction-operation](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2601-prime-subtraction-operation) |
 ## Sorting
 |  |
 | ------- |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2364-count-number-of-bad-pairs](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2364-count-number-of-bad-pairs) |
+| [2601-prime-subtraction-operation](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2601-prime-subtraction-operation) |
 ## String
 |  |
 | ------- |
@@ -536,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2070-most-beautiful-item-for-each-query](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2601-prime-subtraction-operation](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2601-prime-subtraction-operation) |
 | [2665-minimum-time-to-repair-cars](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [3643-zero-array-transformation-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3643-zero-array-transformation-ii) |
 ## Ordered Set
@@ -735,4 +739,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2097-valid-arrangement-of-pairs](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2097-valid-arrangement-of-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [2601-prime-subtraction-operation](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2601-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
