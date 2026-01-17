@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2601-prime-subtraction-operation](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2601-prime-subtraction-operation) |
 | [2665-minimum-time-to-repair-cars](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2665-minimum-time-to-repair-cars) |
+| [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3643-zero-array-transformation-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3643-zero-array-transformation-ii) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 ## Data Stream
 |  |
 | ------- |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0078-subsets) |
+| [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Monotonic Queue
 |  |
