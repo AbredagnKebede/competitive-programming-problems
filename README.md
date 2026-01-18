@@ -746,4 +746,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2601-prime-subtraction-operation](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2601-prime-subtraction-operation) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
