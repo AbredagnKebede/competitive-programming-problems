@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0022-generate-parentheses) |
+| [0071-simplify-path](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0093-restore-ip-addresses) |
 | [0139-word-break](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0139-word-break) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0071-simplify-path) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0394-decode-string) |
