@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3643-zero-array-transformation-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3643-zero-array-transformation-ii) |
 ## Greedy
 |  |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Data Stream
 |  |
 | ------- |
