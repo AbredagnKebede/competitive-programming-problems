@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1861-rotating-the-box](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1861-rotating-the-box) |
+| [1975-maximum-matrix-sum](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1975-maximum-matrix-sum) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2257-count-unguarded-cells-in-the-grid) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1303-minimum-moves-to-reach-target-score](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
+| [1975-maximum-matrix-sum](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1975-maximum-matrix-sum) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1861-rotating-the-box](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1861-rotating-the-box) |
+| [1975-maximum-matrix-sum](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1975-maximum-matrix-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
