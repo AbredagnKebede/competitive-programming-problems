@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2349-design-a-number-container-system](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2349-design-a-number-container-system) |
 | [2364-count-number-of-bad-pairs](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2364-count-number-of-bad-pairs) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2574-count-subarrays-with-median-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2574-count-subarrays-with-median-k) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2381-shifting-letters-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2381-shifting-letters-ii) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2465-shifting-letters-ii) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Two Pointers
 |  |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1046-max-consecutive-ones-iii) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 ## Data Stream
