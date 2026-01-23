@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0966-binary-subarrays-with-sum) |
+| [0969-pancake-sorting](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0969-pancake-sorting) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0986-interval-list-intersections) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-max-increase-to-keep-city-skyline](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0881-boats-to-save-people](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0881-boats-to-save-people) |
 | [0917-boats-to-save-people](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0917-boats-to-save-people) |
+| [0969-pancake-sorting](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0969-pancake-sorting) |
 | [1009-pancake-sorting](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1009-pancake-sorting) |
 | [1095-two-city-scheduling](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1095-two-city-scheduling) |
 | [1285-balance-a-binary-search-tree](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1285-balance-a-binary-search-tree) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0881-boats-to-save-people) |
 | [0917-boats-to-save-people](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0948-sort-an-array) |
+| [0969-pancake-sorting](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0969-pancake-sorting) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1009-pancake-sorting](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1009-pancake-sorting) |
 | [1094-car-pooling](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1094-car-pooling) |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0881-boats-to-save-people) |
 | [0917-boats-to-save-people](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0917-boats-to-save-people) |
+| [0969-pancake-sorting](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0969-pancake-sorting) |
 | [0986-interval-list-intersections](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0986-interval-list-intersections) |
 | [1002-maximum-width-ramp](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1002-maximum-width-ramp) |
 | [1009-pancake-sorting](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1009-pancake-sorting) |
