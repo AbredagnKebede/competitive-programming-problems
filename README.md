@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2465-shifting-letters-ii) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2516-take-k-of-each-character-from-left-and-right) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Two Pointers
 |  |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-next-greater-numerically-balanced-number](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Matrix
 |  |
@@ -691,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0078-subsets) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Monotonic Queue
 |  |
