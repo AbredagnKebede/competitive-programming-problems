@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0859-design-circular-deque) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0881-boats-to-save-people) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0907-koko-eating-bananas) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0486-predict-the-winner) |
 | [0650-2-keys-keyboard](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0664-strange-printer) |
+| [0877-stone-game](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0877-stone-game) |
 | [0909-stone-game](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0943-sum-of-subarray-minimums) |
 | [1240-stone-game-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1240-stone-game-ii) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0650-2-keys-keyboard) |
 | [0797-rabbits-in-forest](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0797-rabbits-in-forest) |
+| [0877-stone-game](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0877-stone-game) |
 | [0909-stone-game](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0909-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1064-smallest-integer-divisible-by-k) |
@@ -596,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0877-stone-game) |
 | [0909-stone-game](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1240-stone-game-ii) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1561-maximum-number-of-coins-you-can-get) |
