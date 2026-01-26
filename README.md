@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0881-boats-to-save-people) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0904-fruit-into-baskets](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0909-stone-game) |
 | [0916-word-subsets](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0916-word-subsets) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0763-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0797-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0829-subdomain-visit-count) |
+| [0904-fruit-into-baskets](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0904-fruit-into-baskets) |
 | [0916-word-subsets](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0916-word-subsets) |
 | [0930-binary-subarrays-with-sum](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0940-fruit-into-baskets) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0567-permutation-in-string) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0904-fruit-into-baskets](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0966-binary-subarrays-with-sum) |
