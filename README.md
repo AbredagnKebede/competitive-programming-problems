@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0722-remove-comments](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0722-remove-comments) |
 | [0739-daily-temperatures](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0739-daily-temperatures) |
+| [0773-sliding-puzzle](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0773-sliding-puzzle) |
 | [0797-rabbits-in-forest](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0797-rabbits-in-forest) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0825-max-increase-to-keep-city-skyline) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0486-predict-the-winner) |
 | [0650-2-keys-keyboard](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0664-strange-printer) |
+| [0773-sliding-puzzle](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0773-sliding-puzzle) |
 | [0877-stone-game](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0877-stone-game) |
 | [0909-stone-game](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0943-sum-of-subarray-minimums) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0078-subsets) |
 | [0093-restore-ip-addresses](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0093-restore-ip-addresses) |
+| [0773-sliding-puzzle](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0773-sliding-puzzle) |
 | [1160-letter-tile-possibilities](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1160-letter-tile-possibilities) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -552,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0498-diagonal-traverse](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0498-diagonal-traverse) |
 | [0695-max-area-of-island](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0695-max-area-of-island) |
+| [0773-sliding-puzzle](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0773-sliding-puzzle) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0921-spiral-matrix-iii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0921-spiral-matrix-iii) |
@@ -681,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0695-max-area-of-island](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0695-max-area-of-island) |
+| [0773-sliding-puzzle](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0773-sliding-puzzle) |
 | [0922-possible-bipartition](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0922-possible-bipartition) |
 | [0999-regions-cut-by-slashes](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0999-regions-cut-by-slashes) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -720,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0139-word-break) |
+| [0773-sliding-puzzle](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0773-sliding-puzzle) |
 ## Counting
 |  |
 | ------- |
