@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
+| [1726-tuple-with-same-product](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1726-tuple-with-same-product) |
 | [1772-create-sorted-array-through-instructions](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1772-create-sorted-array-through-instructions) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1160-letter-tile-possibilities) |
+| [1726-tuple-with-same-product](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1726-tuple-with-same-product) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2349-design-a-number-container-system](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2349-design-a-number-container-system) |
 | [2364-count-number-of-bad-pairs](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2364-count-number-of-bad-pairs) |
@@ -736,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0829-subdomain-visit-count](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0829-subdomain-visit-count) |
 | [1160-letter-tile-possibilities](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1160-letter-tile-possibilities) |
+| [1726-tuple-with-same-product](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1726-tuple-with-same-product) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2364-count-number-of-bad-pairs](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2364-count-number-of-bad-pairs) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
