@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0722-remove-comments](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0722-remove-comments) |
 | [0739-daily-temperatures](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0739-daily-temperatures) |
 | [0773-sliding-puzzle](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0773-sliding-puzzle) |
+| [0781-rabbits-in-forest](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0781-rabbits-in-forest) |
 | [0797-rabbits-in-forest](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0797-rabbits-in-forest) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0825-max-increase-to-keep-city-skyline) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0624-maximum-distance-in-arrays](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0763-partition-labels](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0763-partition-labels) |
+| [0781-rabbits-in-forest](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0781-rabbits-in-forest) |
 | [0797-rabbits-in-forest](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0797-rabbits-in-forest) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0825-max-increase-to-keep-city-skyline) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0567-permutation-in-string) |
 | [0609-find-duplicate-file-in-system](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0609-find-duplicate-file-in-system) |
 | [0763-partition-labels](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0763-partition-labels) |
+| [0781-rabbits-in-forest](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0781-rabbits-in-forest) |
 | [0797-rabbits-in-forest](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0797-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0829-subdomain-visit-count) |
 | [0904-fruit-into-baskets](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0904-fruit-into-baskets) |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0633-sum-of-square-numbers](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0650-2-keys-keyboard) |
+| [0781-rabbits-in-forest](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0781-rabbits-in-forest) |
 | [0797-rabbits-in-forest](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0797-rabbits-in-forest) |
 | [0877-stone-game](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0877-stone-game) |
 | [0909-stone-game](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0909-stone-game) |
