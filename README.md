@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
+| [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
 | [1726-tuple-with-same-product](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1726-tuple-with-same-product) |
 | [1772-create-sorted-array-through-instructions](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1772-create-sorted-array-through-instructions) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0093-restore-ip-addresses) |
 | [0773-sliding-puzzle](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0773-sliding-puzzle) |
 | [1160-letter-tile-possibilities](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1160-letter-tile-possibilities) |
+| [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2456-construct-smallest-number-from-di-string) |
