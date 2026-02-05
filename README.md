@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
+| [3640-trionic-array-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3640-trionic-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3643-zero-array-transformation-ii) |
 ## Greedy
 |  |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0943-sum-of-subarray-minimums) |
 | [1240-stone-game-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1240-stone-game-ii) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [3640-trionic-array-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3640-trionic-array-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
