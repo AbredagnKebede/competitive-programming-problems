@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2594-minimum-time-to-repair-cars](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2594-minimum-time-to-repair-cars) |
 | [2601-prime-subtraction-operation](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2601-prime-subtraction-operation) |
 | [2665-minimum-time-to-repair-cars](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2665-minimum-time-to-repair-cars) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2465-shifting-letters-ii) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2516-take-k-of-each-character-from-left-and-right) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Two Pointers
@@ -817,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1325-path-with-maximum-probability) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -837,4 +840,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0695-max-area-of-island) |
+## Graph Theory
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
