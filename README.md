@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0943-sum-of-subarray-minimums) |
 | [1240-stone-game-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1240-stone-game-ii) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [3640-trionic-array-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3640-trionic-array-ii) |
 ## Heap (Priority Queue)
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0916-word-subsets](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0916-word-subsets) |
 | [0952-word-subsets](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1160-letter-tile-possibilities) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2381-shifting-letters-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2381-shifting-letters-ii) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1002-maximum-width-ramp) |
 | [1472-design-browser-history](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1472-design-browser-history) |
 | [1582-design-browser-history](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1582-design-browser-history) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2375-construct-smallest-number-from-di-string) |
