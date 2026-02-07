@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0274-h-index) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0189-rotate-array) |
 | [0443-string-compression](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0443-string-compression) |
