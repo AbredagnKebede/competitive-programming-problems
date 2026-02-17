@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2364-count-number-of-bad-pairs](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2364-count-number-of-bad-pairs) |
 | [2601-prime-subtraction-operation](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2601-prime-subtraction-operation) |
+| [2698-find-the-punishment-number-of-an-integer](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2698-find-the-punishment-number-of-an-integer) |
 ## String
 |  |
 | ------- |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-next-greater-numerically-balanced-number](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2698-find-the-punishment-number-of-an-integer](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Matrix
