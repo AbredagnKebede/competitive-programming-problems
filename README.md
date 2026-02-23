@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0025-reverse-nodes-in-k-group) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0146-lru-cache](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0146-lru-cache) |
 | [0328-odd-even-linked-list](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/AbredagnKebede/competitive-programming-problems/tree/master/0707-design-linked-list) |
